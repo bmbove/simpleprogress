@@ -2,7 +2,7 @@
 
 Simple progress indicator for python. Internally tracks time for updates.
 
-```
+```python
 from simpleprogress import Progress
 
 max_val = 100
